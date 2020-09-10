@@ -1,0 +1,218 @@
+WEBVTT
+
+1
+00:00:07.930 --> 00:00:09.540
+Welcome to the course!
+
+2
+00:00:09.540 --> 00:00:14.240
+You've begun one of the most complete overviews
+on data science tooling that you’ll currently
+
+3
+00:00:14.240 --> 00:00:15.930
+find on the internet.
+
+4
+00:00:15.930 --> 00:00:20.359
+This doesn’t mean that we cover each and
+every tool, but later in the course we’ll
+
+5
+00:00:20.359 --> 00:00:26.150
+introduce a comprehensive list of tasks a
+data scientist needs to perform and give you
+
+6
+00:00:26.150 --> 00:00:31.390
+the top two or three open source and commercial
+tools available to complete them.
+
+7
+00:00:31.390 --> 00:00:37.850
+We also explain how the tools overlap in functionality,
+what their pros and cons are, and how these
+
+8
+00:00:37.850 --> 00:00:41.000
+tools can address the whole data science pipeline.
+
+9
+00:00:41.000 --> 00:00:43.239
+Let’s start with data.
+
+10
+00:00:43.239 --> 00:00:46.760
+Data is obviously central to data scientists.
+
+11
+00:00:46.760 --> 00:00:53.090
+In this course, we’ll show you how to manage,
+extract, transform, analyze, and visualize
+
+12
+00:00:53.090 --> 00:00:54.090
+data.
+
+13
+00:00:54.090 --> 00:00:59.160
+Now, you might be able to survive data science
+without programming skills if you use the
+
+14
+00:00:59.160 --> 00:01:00.790
+right set of tools.
+
+15
+00:01:00.790 --> 00:01:05.880
+However, we highly recommend getting familiar
+with programming and the related programming
+
+16
+00:01:05.880 --> 00:01:08.289
+frameworks for data science.
+
+17
+00:01:08.289 --> 00:01:12.710
+To help you along, we’ll introduce you to
+the most commonly used programming languages
+
+18
+00:01:12.710 --> 00:01:16.320
+and frameworks available for data science.
+
+19
+00:01:16.320 --> 00:01:21.240
+That said, there is a lot of automation available
+in the latest tooling that a data scientist
+
+20
+00:01:21.240 --> 00:01:22.550
+can use.
+
+21
+00:01:22.550 --> 00:01:27.840
+In this course, we’ll explain how to make
+use of those tools to save time and uncover
+
+22
+00:01:27.840 --> 00:01:29.710
+inspiration.
+
+23
+00:01:29.710 --> 00:01:32.920
+Visual programming is available in many tools.
+
+24
+00:01:32.920 --> 00:01:37.400
+In this course, you’ll learn how visual
+programming can be used to speed up development
+
+25
+00:01:37.400 --> 00:01:42.470
+time and to help non-programmers enter the
+field of data science.
+
+26
+00:01:42.470 --> 00:01:47.950
+Open source software is leading the field
+of data science, but its total costs of ownership,
+
+27
+00:01:47.950 --> 00:01:54.240
+or "TCO," can be higher at times due to configuration,
+customization and maintenance costs.
+
+28
+00:01:54.240 --> 00:02:00.560
+As a result, commercial software also has
+its place, especially since the new generation
+
+29
+00:02:00.560 --> 00:02:07.590
+of commercial data science software leverages
+open source software and open standards.
+
+30
+00:02:07.590 --> 00:02:13.120
+This makes it easy to migrate between tools
+and can reduce overall TCO.
+
+31
+00:02:13.120 --> 00:02:18.500
+In this course, we’ll introduce you to both
+open source and commercial software and point
+
+32
+00:02:18.500 --> 00:02:22.299
+out their strengths and weaknesses for data
+science.
+
+33
+00:02:22.299 --> 00:02:27.189
+We'll also show you ways that you can take
+advantage of their respective strengths.
+
+34
+00:02:27.189 --> 00:02:33.200
+Finally, we'll show you how cloud computing
+can be used to further speed up and facilitate
+
+35
+00:02:33.200 --> 00:02:35.319
+data scientists' work.
+
+36
+00:02:35.319 --> 00:02:41.450
+We'll introduce you to the most commonly used
+and newly emerging cloud tools for data science.
+
+37
+00:02:41.450 --> 00:02:46.620
+In addition to lectures, this course, has
+numerous labs to make you more familiar with
+
+38
+00:02:46.620 --> 00:02:50.879
+the material and get hands-on experience.
+
+39
+00:02:50.879 --> 00:02:53.169
+There are also multiple quizzes to test your
+learning.
+
+40
+00:02:53.169 --> 00:02:54.169
+Nothing more to say than we’re glad to have
+you in the course and happy learning.
+
+41
+00:02:54.169 --> 00:02:55.169
+In case you have trouble in any way, please
+don’t hesitate to contact us in the discussion
+
+42
+00:02:55.169 --> 00:02:56.169
+forum.
+
+43
+00:02:56.169 --> 00:02:57.169
+There's nothing left but to begin!
+
+44
+00:02:57.169 --> 00:03:00.769
+We're very happy to have you with us as you
+start your data science journey.
+
+45
+00:03:00.769 --> 00:03:05.670
+If you have any trouble with any of the course
+material, please don’t hesitate to contact
+
+46
+00:03:05.670 --> 00:03:07.919
+us in the discussion forum.
+
+47
+00:03:07.919 --> 00:03:08.849
+Let's get started!
